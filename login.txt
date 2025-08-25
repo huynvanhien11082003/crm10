@@ -1,2 +1,3 @@
 Day la tinh nang login
 DevB bo sung
+DevB lam tinh nang dang	ky  bo sung noi dung
